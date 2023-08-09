@@ -1,8 +1,9 @@
-# FCGame - FC模拟器
-**FC游戏在线玩，FC在线模拟器，NES在线模拟器，魂斗罗，超级玛丽，忍者龙剑传。可在手机电脑上在线玩FC游戏的网站，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。**
+# FCGame - FC/NES模拟器
+- **FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。**
+- 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
 ## FC模拟器网页效果图
-使用jsnes代码实现网页在线玩fc功能
+基于jsnes开源项目进行二次开发实现的网页在线玩fc游戏
 
 ### 横屏效果
 ![横屏预览](./landscape_mode.png)
@@ -15,13 +16,13 @@
 
 | 按键 | player1 | player2 |
 | - | - | - |
-| Left | A | Num-4 |
-| Right | D | Num-6 |
-| Up | W | Num-8 |
-| Down | S | Num-2 |
-| A | J | Num-7 |
-| B | K | Num-9 |
-| AA | Z | Num-/ |
-| BB | X | Num-* |
-| Start |	Enter |	Num-1 |
-| Select | Ctrl |	Num-3 |
+| Up | W | ↑ |
+| Down | S | ↓ |
+| Left | A | ← |
+| Right | D | → |
+| B | J | Num1 |
+| A | K | Num2 |
+| Select | Space | Num/ |
+| Start | Enter | Num* |
+
+## NES游戏列表
